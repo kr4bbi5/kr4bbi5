@@ -1,4 +1,8 @@
-- Hi, I’m @kr4bbi5
+- hi, I’m krabbie
+- i'm a student
+
+- i know a bit of java!!!!!
+
 
 
 
